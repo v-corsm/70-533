@@ -1,0 +1,19 @@
+- Azure
+    - WebApps
+        - App Service
+            - Region, Scale, Instance Count, SKU
+            - App Service Environment (ASE): Local deployment
+            - App Service plan: A container for your app
+                - Specifies locations, features, costs
+                - Scale up:
+                - Scale out: 
+                    - instance count manually entered
+                    - CPU percentage
+                    - schedule and performance rules
+        - Multi-Tenant
+        - Deployment
+            - Cloud Based
+                - Kudu Deployment Engine
+                    - OneDrive or DropBox
+                - Continuous Deployment
+                
